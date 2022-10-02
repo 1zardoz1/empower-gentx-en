@@ -72,7 +72,13 @@ empowerd add-genesis-account <WALLET_NAME> 1000000umpwr
 ![14](https://user-images.githubusercontent.com/100621008/193433339-3d43e9f2-20cc-45c2-9601-7c29c35e61f9.jpg)
   
 ![1664667940681](https://user-images.githubusercontent.com/100621008/193433356-5dd5713a-6f00-4b07-8b3c-75398a3efd27.jpg)
+*Do the steps below in order*
+![1664667940622](https://user-images.githubusercontent.com/100621008/193433506-42d326cc-6c0e-4f9e-a862-9a0a974e5890.png)
+
+![1664667940647](https://user-images.githubusercontent.com/100621008/193433514-8c8558ca-ba6a-4018-bbe7-75bd80433431.png)
+
+![1664667940656](https://user-images.githubusercontent.com/100621008/193433518-9525c9ed-853d-437a-b855-6b26ae140658.png)
+
+![1664667940633](https://user-images.githubusercontent.com/100621008/193433520-b20e4988-94c3-4134-8ae3-02263f69b741.png)
 
   
-
-
