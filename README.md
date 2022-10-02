@@ -65,5 +65,9 @@ empowerd add-genesis-account <WALLET_NAME> 1000000umpwr
 *Save the code you get somewhere, fork Empowerchain*
  ![1664667940692](https://user-images.githubusercontent.com/100621008/193433068-e9ffad6c-5752-4b82-b94f-b716536e0182.jpg)
 *After clicking Add file and then clicking Creat New File, we paste the gentx code that we noted in the window that opens*
+![1664667940697](https://user-images.githubusercontent.com/100621008/193433245-b30b26b7-adb0-44ea-b729-0f71c3c2c591.jpg)
+  
+![1664667940687](https://user-images.githubusercontent.com/100621008/193433251-8a72be88-5fcf-46dd-8d74-4051d2ab7926.jpg)
+
 
 
