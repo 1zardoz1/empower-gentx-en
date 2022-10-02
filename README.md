@@ -61,5 +61,8 @@ empowerd add-genesis-account <WALLET_NAME> 1000000umpwr
  ![8](https://user-images.githubusercontent.com/100621008/193432937-a4af4dc3-f81e-4114-b3ce-7e9c4919b272.jpg)
   
  ![9](https://user-images.githubusercontent.com/100621008/193432945-32a74deb-f56c-41c1-9f98-76ba3492632f.jpg)
+  
+ **save the code you get somewhere, fork Empowerchain**
+ ![1664667940692](https://user-images.githubusercontent.com/100621008/193433068-e9ffad6c-5752-4b82-b94f-b716536e0182.jpg)
 
 
