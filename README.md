@@ -80,5 +80,7 @@ empowerd add-genesis-account <WALLET_NAME> 1000000umpwr
 ![1664667940656](https://user-images.githubusercontent.com/100621008/193433518-9525c9ed-853d-437a-b855-6b26ae140658.png)
 
 ![1664667940633](https://user-images.githubusercontent.com/100621008/193433520-b20e4988-94c3-4134-8ae3-02263f69b741.png)
+*Now we have come to the end and when you click Pull Request you will see your gentx.json*
+![1664667940676](https://user-images.githubusercontent.com/100621008/193433648-096ab691-29b0-4298-8d84-5bb8fe57f695.png)
 
-  
+![1664667940607](https://user-images.githubusercontent.com/100621008/193433650-f049aec3-459e-4211-b4fc-faa3c76ccaf0.png)
