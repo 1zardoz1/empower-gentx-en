@@ -58,3 +58,7 @@ empowerd add-genesis-account <WALLET_NAME> 1000000umpwr
 --details="enter your own information"
  ```
  **This will be the output you will get and you will get your gentx by putting <cat> in front of it**
+ ![8](https://user-images.githubusercontent.com/100621008/193432937-a4af4dc3-f81e-4114-b3ce-7e9c4919b272.jpg)
+ ![9](https://user-images.githubusercontent.com/100621008/193432945-32a74deb-f56c-41c1-9f98-76ba3492632f.jpg)
+
+
